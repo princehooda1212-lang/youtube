@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /*
 Template Name: Jiwan Ram Basherhar Lal Sr. Sec. Public School
-Template URL: https://html.vecuro.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School
+Template URL: https://html.Government.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School
 Description: Jiwan Ram Basherhar Lal Sr. Sec. Public School - Colorful Kindergarten & Preschool HTML5 Template
-Author: vecuro
-Author URI: https://themeforest.net/user/vecuro_themes
+Author:Government
+Author URI: https://themeforest.net/user/Government_themes
 Version: 1.0.0
 */
 /*=================================
@@ -73,7 +73,7 @@ Version: 1.0.0
 /*------------------- 1.2. Function -------------------*/
 /*------------------- 1.3. Variable-------------------*/
 :root {
-  --vs-theme-color1: #70167e;
+  --vs-theme-color1: #024ea2;
   --vs-theme-color1-rgb: 112, 22, 126;
   --vs-theme-color2: #D18109;
   --vs-theme-color2-rgb: 209, 129, 9;
@@ -2264,7 +2264,7 @@ input[type=email]::placeholder {
   border-radius: 16px;
   mix-blend-mode: screen;
   will-change: opacity, transform, filter, background-position;
-  background: linear-gradient(120deg, rgba(209, 129, 9, 0.6) 0%, rgba(112, 22, 126, 0.6) 50%, rgba(209, 129, 9, 0.6) 90%);
+  background: linear-gradient(120deg, rgba(209, 129, 9, 0.6) 0%,#024ea2, rgba(209, 129, 9, 0.6) 90%);
   background-size: 200% 200%;
   animation: shimmer 3s linear infinite;
   filter: blur(3px);
@@ -7703,7 +7703,7 @@ blockquote.vs-quote .quote-author {
 }
 .vs-about--image {
   min-height: 607px;
-  max-width: 607px;
+  max-width: 1007px;
   width: 100%;
   position: relative;
   /* Large devices */

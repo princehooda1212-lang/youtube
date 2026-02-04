@@ -1,6 +1,6 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Jan 2026 14:10:32 at https://html.vecurosoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -https://html.vecurosoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Jan 2026 14:10:32 at https://html.Governmentsoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -https://html.Governmentsoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html
 Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public School
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.vecurosoft.com/toddly/demo/index.html -O1 "C:\Users\Lenovo\OneDrive\Desktop\prince new\Toddly" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -https://html.vecurosoft.com/toddly/demo/index.html )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html -O1 "C:\Users\Lenovo\OneDrive\Desktop\prince new\ Jiwan Ram Basherhar Lal Sr. Sec. Public School" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.html )
 
 
 
@@ -14,27 +14,27 @@ Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. P
 Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public School
 Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public School
 Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public School
-14:14:05	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/shop-nft.html (from https://html.vecurosoft.com/toddly/demo/index.htmlJiwan Ram Basherhar Lal Sr. Sec. Public School
+14:14:05	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/shop-nft.html (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.htmlJiwan Ram Basherhar Lal Sr. Sec. Public School
 Jiwan Ram Basherhar Lal Sr. Sec. Public SchoolJiwan Ram Basherhar Lal Sr. Sec. Public School
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/ht (from https://html.vecurosoft.com/toddly/demo/index.Jiwan Ram Basherhar Lal Sr. Sec. Public School
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/ht (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index.Jiwan Ram Basherhar Lal Sr. Sec. Public School
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-brands-400.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-brands-400.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-duotone-900.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-duotone-900.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-light-300.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-light-300.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-regular-400.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-regular-400.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-solid-900.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-solid-900.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-thin-100.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-thin-100.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:06	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/assets/fonts/fa-v4compatibility.ttf (from https://html.vecurosoft.com/toddly/demo/assets/css/fontawesome.min.css)
+14:14:06	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/fonts/fa-v4compatibility.ttf (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/assets/css/fontawesome.min.css)
 
-14:14:07	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/call-+1333456888 (from https://html.vecurosoft.com/toddly/demo/index-9.html)
+14:14:07	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/call-+1333456888 (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/index-9.html)
 
-14:14:07	Error: 	"Not Found" (404) at link https://html.vecurosoft.com/toddly/demo/product-details.html (from https://html.vecurosoft.com/toddly/demo/shop.html)
+14:14:07	Error: 	"Not Found" (404) at link https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/product-details.html (from https://html.Governmentsoft.com/ Jiwan Ram Basherhar Lal Sr. Sec. Public School/demo/shop.html)
 
 
 
